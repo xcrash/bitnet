@@ -1,0 +1,6 @@
+D:\PROJECTS\Bitnet\zzz\trunk\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.xml
+D:\PROJECTS\Bitnet\zzz\trunk\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.dll
+D:\PROJECTS\Bitnet\zzz\trunk\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.pdb
+D:\PROJECTS\Bitnet\zzz\trunk\Newtonsoft.Json\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\Bitnet\zzz\trunk\Newtonsoft.Json\obj\Release\Newtonsoft.Json.dll
+D:\PROJECTS\Bitnet\zzz\trunk\Newtonsoft.Json\obj\Release\Newtonsoft.Json.pdb
